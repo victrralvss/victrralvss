@@ -1,4 +1,5 @@
-### Bem vindo(a)! 
+### Bem vindo(a)! 👋
+#
 
 <div style="display: inline_block;">
   <a href="https://github.com/victrralvss">
@@ -6,7 +7,6 @@
   <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victrralvss&layout=compact&theme=codeSTACKr&icon_color=faea5d&text_bold=false&border_color=f0794e">
 </div>
     
- ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
