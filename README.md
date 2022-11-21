@@ -5,7 +5,7 @@
 
 
 
-<div style="display: flex;">
+<div style="display: inline_block;">
   <a href="https://github.com/victrralvss">
   <img  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=victrralvss&show_icons=true&theme=codeSTACKr&icon_color=faea5d">
   <img  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victrralvss&layout=compact&theme=codeSTACKr&icon_color=faea5d&text_bold=false">
